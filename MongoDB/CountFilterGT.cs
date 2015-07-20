@@ -10,7 +10,7 @@ namespace MongoDB
 {
     public class CountFilterGT : IMongoTestTask
     {
-        public void Run(MongoDB database)
+        public void Run(MongoDatabase database)
         {
             var collection = database.GetCollection("foobar");
 

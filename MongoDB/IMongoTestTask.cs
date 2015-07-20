@@ -8,6 +8,6 @@ namespace MongoDB
 {
     public interface IMongoTestTask
     {
-        void Run(MongoDB database);
+        void Run(MongoDatabase database);
     }
 }

@@ -9,14 +9,14 @@ using MongoDB.Driver;
 
 namespace MongoDB
 {
-    public class MongoDB
+    public class MongoDatabase
     {
         private IMongoDatabase _Database = null;
         private IMongoClient _Client = null;
         private string _ServerAddress = "localhost";
         private string _DatabaseName = "test_db";
 
-        public MongoDB()
+        public MongoDatabase()
         {
             MongoClientSettings settings = new MongoClientSettings();
 
