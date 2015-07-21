@@ -11,4 +11,4 @@ At the moment this is a .NET console application. To build this project you will
 This code is freely distributed under the MIT License. See LICENSE for details.
 
 # Support
-Feel free to submit bugs to the Github issues page. This is a pre-alpha-alpha-alpha project mainly meant to testing, so please consider this code and any changes as-is.
+Feel free to submit bugs to the Github issues page. This is a pre-alpha-alpha-alpha project mainly meant for testing, so please consider this code and any changes as-is.
